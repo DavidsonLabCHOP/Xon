@@ -6,8 +6,8 @@ This script is released as a part of Monteys et al., Nature (2021). It is used t
 
 ### Contents:
 
--intropolis_search.R
--ExtractIntropolisLine.py
+- intropolis_search.R
+- ExtractIntropolisLine.py
 
 ### Use:
 
