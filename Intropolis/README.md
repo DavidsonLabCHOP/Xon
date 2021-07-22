@@ -2,7 +2,7 @@
 
 ### Purpose:
 
-This script is released as a part of Monteys et al., Nature (2021). It is used to query the presence of a splice junction of interest in the Intropolis database of exon-exon junctions. The purpose of this script is to identify lines in the intropolis database corresponding to a splicing event of interest.
+These intropolis database search tools are being released as a part of Monteys et al., Nature (2021). They are used to query splice junctions of interest in the Intropolis database of exon-exon junctions to identify the datasets in which a junction has been previously reported.
 
 ### Contents:
 
